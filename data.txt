@@ -1,0 +1,4 @@
+0.0,cerio
+5.0,cincou
+10.0,dieu
+15.0,quinzeu
