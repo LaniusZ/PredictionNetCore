@@ -1,5 +1,5 @@
 # .netCore Prueba de concepto de predicción
-Se utiliza la libreria Microsoft.ML v 1.0.0-preview 
+Se utiliza la libreria Microsoft.ML v 1.0.0
 Se genera en base al ejemplo "iris flowers"
 
 La idea es entender como funciona internamente el uso de la libreria.
